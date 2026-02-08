@@ -17,3 +17,5 @@ Focus areas:
 - Biomedical signal processing
 - Clinical time series analysis
 - Machine Learning and Deep Learning in healthcare
+
+Note: The bachelor thesis itself is not publicly available due to data usage restrictions.
