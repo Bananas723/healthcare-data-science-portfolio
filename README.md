@@ -3,7 +3,7 @@
 This repository contains selected data science and AI projects in the healthcare and medical engineering domain.
 
 ## Projects
-- ECG Arrhythmia Detection using Signal Processing and Machine Learning
+- [ECG Arrhythmia Detection](https://github.com/Bananas723/ecg-arrhythmia-detection)
 - (coming soon) Medical Image Analysis
 - (coming soon) ICU Early Warning Models
 
